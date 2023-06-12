@@ -1,0 +1,134 @@
+{
+    "questions": [
+        {
+            "question": "The biggest country in the world?",
+            "answers": [
+                "China",
+                "Australia",
+                "Russia",
+                "USA"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "question": "In what city is the White House?",
+            "answers": [
+                "New York",
+                "Washington",
+                "Los Angeles",
+                "Boston"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "The highest waterfall in the world?",
+            "answers": [
+                "Chutes de Khone",
+                "Niagara",
+                "Angel",
+                "Plitvice"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "question": "What is the capital of Portugal",
+            "answers": [
+                "Porto",
+                "Buenos Aires",
+                "Benfica",
+                "Lisbon"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "question": "The year when WW1 has end?",
+            "answers": [
+                "1918",
+                "1917",
+                "1919",
+                "1916"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "What is 70 degrees Fahrenheit in Celsius?",
+            "answers": [
+                "18.8889",
+                "20",
+                "21.1111",
+                "158"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "question": "When was Mahatma Gandhi born?",
+            "answers": [
+                "October 2, 1869",
+                "December 15, 1872",
+                "July 18, 1918",
+                "January 15, 1929"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "How far is the moon from Earth?",
+            "answers": [
+                "7,918 miles (12,742 km)",
+                "86,881 miles (139,822 km)",
+                "238,400 miles (384,400 km)",
+                "35,980,000 miles (57,910,000 km)"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "question": "Which country produces the most coffee in the world?",
+            "answers": [
+                "Indonesia",
+                "Brasil",
+                "Vietnam",
+                "Columbia"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "How tall is Mount Everest?",
+            "answers": [
+                "6,683 ft (2,037 m)",
+                "7,918 ft (2,413 m)",
+                "19,341 ft (5,895 m)",
+                "29,029 ft (8,847 m)"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "question": "When christopher columbus discovered america?",
+            "answers": [
+                "1492",
+                "1511",
+                "1524",
+                "1531"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "How many years did the 100 years war last?",
+            "answers": [
+                "116",
+                "99",
+                "100",
+                "111"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "Value of pi?",
+            "answers": [
+                "3",
+                "4",
+                "3.14",
+                "3.5"
+            ],
+            "correctIndex": 3
+        }
+    ]
+}
