@@ -1,0 +1,31 @@
+{
+    "admin": {
+        "password": "abcdef",
+        "high_score": 12
+    },
+    "mihai": {
+        "password": "Ux\u007fn",
+        "high_score": 13,
+        "date": "2023-05-18 20:43:49.318566"
+    },
+    "adrian": {
+        "password": "ijmkm",
+        "high_score": 0,
+        "date": "2023-05-18 20:48:38.644542"
+    },
+    "mircea": {
+        "password": "njsdjvmjdb",
+        "high_score": 8,
+        "date": "2023-05-22 19:00:51.418249"
+    },
+    "tzambi": {
+        "password": "fswwy",
+        "high_score": 0,
+        "date": "2023-05-22 19:02:24.217687"
+    },
+    "ionescu": {
+        "password": "hbhjop",
+        "high_score": 13,
+        "date": "2023-06-07 03:03:01.985034"
+    }
+}
